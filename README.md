@@ -1,6 +1,6 @@
 # Portofolio Task App
 
-**Status:** WIP — basic CRUD API implemented with Spring Boot and Spring Data JPA.
+**Status:** WIP — basic CRUD API implemented with Spring Boot and Spring Data JPA. (doesn't work, not finished yet)
 
 Tech: Java, Spring Boot, Spring Data JPA, H2 (in-memory)
 
